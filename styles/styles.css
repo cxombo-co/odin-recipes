@@ -1,0 +1,37 @@
+#title {
+    color: blanchedalmond;
+    background-color: rgba(136, 134, 125, 0.923);
+}
+
+body {
+    background-color: rgb(241, 241, 217);
+    color: rgb(93, 91, 89);
+}
+
+img, #title {
+    border-style: solid;
+    border-color: rgb(95, 93, 93);
+}
+
+h4, li, p {
+    font-weight: bold;
+}
+
+#box {
+    background-color: rgba(136, 134, 125, 0.923);
+    width: 150px;
+    border: 5px solid rgb(117, 117, 117);
+    padding: 25px;
+    margin: 20px;
+    color: blanchedalmond;
+}
+
+.image-link {
+    position: absolute;
+    top: 100px; /* Distance from the top of the page */
+    left: 340px; /* Distance from the left of the page */
+    background-color: transparent;
+    width: 900px;
+    height: 500px;
+    
+}
